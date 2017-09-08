@@ -14,7 +14,7 @@ public class Greeter {
   }
 
   /**
-   * Returns hello someone
+   * Returns hello someone.
    *
    * @param someone the name of a person
    * @return formatted hello
